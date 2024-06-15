@@ -85,6 +85,8 @@ params:
   
   # Footer links
   links:
+    - link_name: GitHub
+      link: https://github.com/TinyTrading
     - link_name: Twitch
       link: https://twitch.tv/tinytrading
     - link_name: Mastodon
